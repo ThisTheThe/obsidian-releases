@@ -950,5 +950,12 @@
         "repo": "luke-rmaki/silence-obsidian",
         "screenshot": "Screenshot.png",
         "modes": ["dark"]
-    }
+    },
+    {
+        "name": "Micro Mike",
+        "author": "Luke Ruokaismaki",
+        "repo": "ThisTheThe/MicroMike",
+        "screenshot": "screenshot.png",
+        "modes": ["dark"]        
+    },
 ]
